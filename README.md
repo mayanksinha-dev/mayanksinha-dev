@@ -36,9 +36,6 @@
   <img src="https://streak-stats.demolab.com/?user=mayanksinha-dev&theme=merko&hide_border=true&cache_seconds=86400" alt="mayanksinha-dev's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=mayanksinha-dev&theme=merko&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Mayank Sinha's GitHub Trophies" />
-</p>
-<p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=mayanksinha-dev&theme=merko&radius=10" alt="mayanksinha-dev's Activity Graph" />
 </p>
 
